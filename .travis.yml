@@ -11,5 +11,5 @@ addons:
     s3_region: "us-west-2"
     debug: true
     paths:
-      - $TRAVIS_BUILD_DIR/build/slopp/proxyrec/build/main-macosx
-      - $TRAVIS_BUILD_DIR/build/slopp/proxyrec/build/main-linux
+      - $TRAVIS_BUILD_DIR/build/main-macosx
+      - $TRAVIS_BUILD_DIR/build/main-linux
