@@ -17,5 +17,5 @@ async function build() {
 }
 
 build().then(() => {
-  console.log("Executables Built");
+  console.log("Done Building Executables");
 });
